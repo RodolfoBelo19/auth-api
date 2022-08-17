@@ -52,7 +52,7 @@ yarn start:dev
 # production mode
 $ npm run start:prod
 # or 
-yarn start:prod
+$ yarn start:prod
 ```
 
 ## Test
